@@ -1,0 +1,1 @@
+{"quartos": [{"numero": "1", "categoria": "s", "diaria": "10", "consumo": "Nada"}, {"numero": "2", "categoria": "m", "diaria": "20", "consumo": "Nada"}, {"numero": "3", "categoria": "p", "diaria": "40", "consumo": "Nada"}]}

@@ -1,0 +1,1 @@
+{"produtos": [{"codigo": "1", "nome": "agua", "preco": "4.50"}, {"codigo": "2", "nome": "suco", "preco": "6"}, {"codigo": "3", "nome": "refri", "preco": "7"}, {"codigo": "4", "nome": "cereal", "preco": "4"}]}
